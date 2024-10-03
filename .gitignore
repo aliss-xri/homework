@@ -4,3 +4,11 @@
 node_modules
 dist
 .cache
+.editconfig
+package-lock.json
+packge.json
+robots
+site.webmanifest
+webpack.common
+webpack.config.dev
+webpack.config.prod
